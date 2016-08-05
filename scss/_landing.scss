@@ -1,0 +1,20 @@
+// Styles for Landing Page
+
+body {
+
+    position:absolute;
+
+    width:100vw;
+    height:100vh;
+
+    background-color: $gray-lighter;
+    color:$gray-dark;
+
+}
+
+.hero-wrapper {
+    position:absolute;
+    left:50%;
+    top: 40%;
+    margin-left:-131px;
+}
