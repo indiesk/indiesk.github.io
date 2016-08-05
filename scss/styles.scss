@@ -1,0 +1,14 @@
+// compileCompressed: ../css/$1.css
+
+/*!
+ * SOKE v1.0.1-alpha.1 (http://soke.it)
+ * Copyright 2016 SOKE.
+ * Licensed under MIT (https://github.com/indiesk/soke/blob/master/LICENSE)
+ */
+
+// Core Variables and Mixins
+@import "variables";
+@import "extends";
+
+// Styles for Landing Page
+@import "landing";
