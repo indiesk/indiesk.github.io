@@ -2,4 +2,4 @@
  * SOKE v1.0.1-alpha.1 (http://soke.it)
  * Copyright 2016 SOKE.
  * Licensed under MIT (https://github.com/indiesk/soke/blob/master/LICENSE)
- */.absolute-fullscreen{position:absolute;top:0;bottom:0;left:0;right:0}.hidden{display:none}body{position:absolute;width:100vw;height:100vh;background-color:#eceeef;color:#373a3c}.hero-wrapper{position:absolute;left:50%;top:40%;margin-left:-131px}
+ */.absolute-fullscreen{position:absolute;top:0;bottom:0;left:0;right:0}.hidden{display:none}body{position:absolute;width:100vw;height:100vh;background-color:#eceeef;color:#373a3c}.hero-wrapper img{width:100%}@media screen and (min-width: 1024px){.hero-wrapper{position:absolute;left:50%;top:50%;margin-left:-403px;margin-top:-175px}}
