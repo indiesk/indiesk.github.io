@@ -13,9 +13,18 @@ body {
 }
 
 .hero-wrapper {
-    position:absolute;
-    left: 50%;
-    top: 50%;
-    margin-left: -403px;
-    margin-top:-175px;
+}
+
+.hero-wrapper img {
+    width:100%;
+}
+
+@media screen and (min-width: 1024px) {
+    .hero-wrapper {
+        position:absolute;
+        left: 50%;
+        top: 50%;
+        margin-left: -403px;
+        margin-top:-175px;
+    }
 }
